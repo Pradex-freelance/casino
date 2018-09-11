@@ -1,9 +1,9 @@
 <?php
 
 $server =   'localhost';
-$user =     'pooboxinbo_avt';
-$password = 'interrUpt-9';
-$database = 'pooboxinbo_avt';
+$user =     '';
+$password = '';
+$database = '';
 
 $errbase = '<div style="font: 12px tahoma, arial, sans-serif; color: #276F8F; line-height: 1.3; margin: 50px; text-align: left;">        
             <span style="font-size: 16px; color: #454545;">К сожалению, сервер очень перегружен</span><br />
