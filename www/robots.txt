@@ -1,0 +1,14 @@
+User-agent: Yandex
+Disallow: /admin
+Disallow: /config
+Disallow: /blocks
+Disallow: /country
+Host: avtomaty-online.biz
+
+User-agent: *
+Disallow: /admin
+Disallow: /config
+Disallow: /blocks
+Disallow: /country
+
+Sitemap: http://avtomaty-online.biz/sitemap.xml

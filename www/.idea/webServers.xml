@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cb77695c-5308-4ea8-82e2-576cb5a7a243" name="avtomaty" url="http://avtomaty.pradex.info">
+        <fileTransfer host="avtomaty.pradex.info" port="21" rootFolder="/pradex_info/avtomaty/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

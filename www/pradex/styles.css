@@ -1,0 +1,72 @@
+#provider-select{
+    float: left;
+}
+
+.f select,.f input{
+    -box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 3px;
+    padding-left: 5px;
+    border: none;
+    outline: none;
+}
+
+#provider-select select{
+    cursor: pointer;
+    font-weight: 600;
+    width: 170px;
+    height: 24px;
+    border-width: 1px;
+}
+#game-search{
+    float: right;
+
+}
+#gameNameSearch{
+    font-weight: 600;
+    width: 130px;
+    height: 22px;
+}
+.sortblock{
+    width: 100%;
+    height: 26px;
+    border-radius: 7px;
+    padding-top: 7px;
+;
+}
+.sortblock label{
+    font-weight: 600;
+    color: #f3b300;
+    margin: 0 7px;
+    font-size: 16px;
+}
+.sortblock button{
+    height: 24px;
+    margin-left: 2px;
+    margin-right: 7px;
+}
+
+#more a{
+    font-size: 12pt;
+    font-weight: 600;
+    display: table;
+    margin: 30px auto;
+    padding: 7px 60px;
+    border-top: solid 2px #00a2d3;
+    border-bottom: solid 2px #047bb3;
+    background-color: #0485be;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+    text-shadow: 1px 1px 5px #043d56;
+}
+#more a:hover{
+    background-color: #047ca8;
+}
+
+#slot-list{
+    margin: 20px 0 !important;
+}
+
+#flex-box{
+    display: flex; justify-content: space-between
+}
